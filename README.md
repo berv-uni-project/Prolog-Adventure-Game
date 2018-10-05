@@ -1,5 +1,7 @@
 # Prolog Adventure Game
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d24a726ac5040a781c8e6961fa82550)](https://app.codacy.com/app/berviantoleo/Prolog-Adventure-Game?utm_source=github.com&utm_medium=referral&utm_content=berv-uni-project/Prolog-Adventure-Game&utm_campaign=Badge_Grade_Settings)
+
 # Tio The Knight in Shining Armor
 
 ## How to Compile
