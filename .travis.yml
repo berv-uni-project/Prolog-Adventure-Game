@@ -2,10 +2,10 @@ distro: xenial
 
 install:
   - sudo apt-get update
-  - sudo apt-get install software-properties-common
-  - sudo apt-add-repository ppa:swi-prolog/stable
+  - sudo apt-get install --yes software-properties-common
+  - sudo apt-add-repository --yes ppa:swi-prolog/stable
   - sudo apt-get update
-  - sudo apt-get install swi-prolog
+  - sudo apt-get install --yes swi-prolog
   
 script:
   - swipl -o OurGame -c K01_G11.pl
