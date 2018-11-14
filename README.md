@@ -20,6 +20,6 @@
   1. pdf file - documentation of the program
   2. pl file - source code of the program
 
-### Credits : SUNS,WS,BLP,GD
+### Credits/Creator : SUNS,WS,BLP,GD
 
 Fun is Fun
